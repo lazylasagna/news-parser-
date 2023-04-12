@@ -1,5 +1,5 @@
 # news-parser-
-python news parser by date from https://www.kommersant.ru 
+python news parser by date from https://www.kommersant.ru using selenium, bs4, requests
 
 Необходимо спарсить все новости, опубликованные на главной странице сайта "Коммерсантъ" в определенный день. Дата должна указываться при запуске программы.
 Скрипт должен получать следующую информацию о каждой новости:   
